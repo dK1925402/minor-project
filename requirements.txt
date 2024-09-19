@@ -1,0 +1,11 @@
+Flask==2.3.2
+yt-dlp==2023.7.6
+qrcode[pil]==7.4.2
+PyPDF2==3.0.1
+Pillow==10.0.0
+python-barcode==0.14.0
+instaloader==4.10.1
+
+
+# install command 
+# pip install -r requirements.txt
